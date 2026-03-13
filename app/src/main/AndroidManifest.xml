@@ -11,6 +11,7 @@
         android:allowBackup="true"
         android:label="Estratégia"
         android:theme="@style/AppTheme"
+        android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true">
 
         <activity
